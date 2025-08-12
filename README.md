@@ -21,7 +21,7 @@ A full-stack Finance Management App built with **FastAPI** (backend), **SQLAlche
 |------------|--------------|
 | Backend    | FastAPI, SQLAlchemy |
 | Frontend   | React, Axios |
-| Database   | SQLite / PostgreSQL / MySQL |
+| Database   | PostgreSQL |
 | API Comm.  | REST + JSON |
 | Environment | Python 3.10+, Node.js 18+ |
 
@@ -33,7 +33,7 @@ A full-stack Finance Management App built with **FastAPI** (backend), **SQLAlche
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/yourusername/Finance-Management-App.git
+    git clone https://github.com/Kode-bender/Finance-Management-App.git
     cd Finance-Management-App/backend
     ```
 
